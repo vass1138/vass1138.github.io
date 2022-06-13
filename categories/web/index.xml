@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emanuel Vassiliadis</title>
-    <link>https://vass1138.github.io/</link>
-    <description>Recent content on Emanuel Vassiliadis</description>
+    <title>web on Emanuel Vassiliadis</title>
+    <link>https://vass1138.github.io/categories/web/</link>
+    <description>Recent content in web on Emanuel Vassiliadis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jun 2022 23:18:34 +1000</lastBuildDate><atom:link href="https://vass1138.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 23:18:34 +1000</lastBuildDate><atom:link href="https://vass1138.github.io/categories/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Hugo (Redux)</title>
       <link>https://vass1138.github.io/post/new-hugo-site/</link>
